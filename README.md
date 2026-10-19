@@ -24,3 +24,9 @@ The `shuttercraft.svg` wallpaper is original. Shuttercraft OS is an independent 
 
 See [FEATURES.md](FEATURES.md) for three local tools included for photography.
 
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
